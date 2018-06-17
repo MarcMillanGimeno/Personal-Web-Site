@@ -1,0 +1,68 @@
+.menu{
+    background-color: #a39163;
+}
+
+/*Nvar sytles - barra de menú*/
+.titlesNVAR{
+    color: #36210d !important;
+}
+
+a {
+    background-color: inherit !important;
+}
+a:hover, a:focus {
+    color: #fff59f !important;
+    /*text-decoration: underline !important;*/
+}
+.downloadButon:hover, a:focus {
+    color: #1d1d4a !important;
+    /*text-decoration: underline !important;*/
+}
+
+body{
+    background-color: beige !important;
+}
+
+/*Personal Info Section*/
+.infoProfile{
+    margin-top: 80px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.ImageProfile{
+    width: 180px;
+}
+/*Skills Section*/
+.sksctions{
+    padding-left: 10%;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.Skills{
+    width: 180px;
+    border-radius: 53px 53px 53px 53px;
+    -moz-border-radius: 53px 53px 53px 53px;
+    -webkit-border-radius: 53px 53px 53px 53px;
+    border: 0px solid #000000;
+}
+.itemSkill{
+    margin-right: 60px;
+}
+.imageUX{
+    margin-top: 30px;
+}
+
+#Proyectos{
+    margin-bottom: 30px;
+}
+
+.sectionContact{
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.logosContacto{
+    width: 60px;
+}
+.l1{
+    margin-top: 5px;
+}
